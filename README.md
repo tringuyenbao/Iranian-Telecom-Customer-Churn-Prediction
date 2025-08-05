@@ -26,11 +26,11 @@ The dataset, collected randomly from an Iranian telecom company's database over 
 
 ## Machine Learning Models
 
-### Linear Regression
+### Logistic Regression
 
 #### Default 
 <p align="center">
-  <img src="https://github.com/tringuyenbao/Iranian-Telecom-Customer-Churn-Prediction/blob/main/images/linear-regression-score.png?raw=true" alt="linear-regression-score"/>
+  <img src="https://github.com/tringuyenbao/Iranian-Telecom-Customer-Churn-Prediction/blob/main/images/linear-regression-score.png?raw=true" alt="logistic-regression-score"/>
 </p>
 
 #### Hyperparameter tuned
